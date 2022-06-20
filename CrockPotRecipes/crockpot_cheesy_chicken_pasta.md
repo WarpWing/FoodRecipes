@@ -1,6 +1,6 @@
 # Cheesy Chicken Spaghetti
 
-##Items:
+## Items:
 - Boneless skinless chicken breast (3 or 4)
 - Velveeta cheese (block)
 - Spaghetti noodles (package)
